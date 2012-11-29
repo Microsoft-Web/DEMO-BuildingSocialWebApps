@@ -3,8 +3,8 @@
 
 <a name="outline" />
 ## Outline
-* **Demonstrate how to setup an ASP.NET MVC app to use a Microsoft Account for Authentication**
-* **Demonstrate how to create a Facebook App using the new Facebook template in ASP.NET MVC**
+* Demonstrate how to setup an ASP.NET MVC app to use a Microsoft Account for Authentication
+* Demonstrate how to create a Facebook App using the new Facebook template in ASP.NET MVC
 
 <a name="demo-preparation" />
 ## Demo Preperation
@@ -132,3 +132,8 @@ public static class AuthConfig
 <a name="demo2-facebook" />
 ## ASP.NET MVC Facebook Template
 
+The Facebook template is currently in transition. 
+
+For now this demo should be used: http://www.asp.net/vnext/overview/fall-2012-update/facebook-application-template-tutorial
+
+This demo script will be updated in a few days after the RC version of the Facebook Template is ready.
